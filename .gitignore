@@ -1,0 +1,7 @@
+keys.json
+*env/*
+__pycache__/
+*.un*
+*.bak
+users.json
+log.txt
